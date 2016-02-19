@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/GDDLKJ/YJJXJ/raw/master/IPhoneOA_2.0.2.151214_YJJX.ipa</string>
+					<string>https://raw.githubusercontent.com/GDDLKJ/demo/master/iPhoneOA_V2.0.1.50908.ipa</string>					 
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/GDDLKJ/YJJXJ/raw/master/appicon_114.png</string>
+					<string>https://raw.githubusercontent.com/GDDLKJ/demo/master/iPhoneIcon/appicon_114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/GDDLKJ/YJJXJ/raw/master/appicon_57.png</string>
+					<string>https://raw.githubusercontent.com/GDDLKJ/demo/master/iPhoneIcon/appicon_72.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.gddlkj.projects.dloaiphone</string>
+				<string>com.gddlkj.projects.dloaipad</string>
 				<key>bundle-version</key>
-				<string>1.081</string>
+				<string>1.238</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>GDDLKJ</string>
 				<key>title</key>
-				<string>DLOA_iPhone</string>
+				<string>DL_OAiPhone</string>
 			</dict>
 		</dict>
 	</array>
